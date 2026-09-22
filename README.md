@@ -1,10 +1,7 @@
 <p align="center">
   <img src="./banner.png" width="100%" alt="diaaa GitHub banner">
 </p>
-<p align="center">
-  Building things, breaking things,
-and investigating the logs afterwards. ✦
-</p>
+
 
 ```bash
 $ whoami
@@ -15,7 +12,7 @@ CSE student exploring cybersecurity, AI & app development.
 
 ```
 <p align="center">
-  <sub>✦ badges</sub>
+  <sub>✦ BADGES</sub>
 </p>
 
 <p align="center">
