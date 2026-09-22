@@ -14,35 +14,9 @@ $ cat about.txt
 CSE student exploring cybersecurity, AI & app development.
 
 ```
-## ✦ PROJECTS
-
-**01 / NIDAI**  
-`cybersecurity · machine learning`
-
-Network intrusion detection project exploring machine learning
-for identifying network attacks.
-
-*currently building*
-
-
-**02 / LINGO**  
-`flutter · AI · computer vision`
-
-ASL learning app built with Flutter and on-device machine learning.
-
-
-**03 / SPILL THE NEWS**  
-`flutter · AI`
-
-an AI-powered news companion built with Flutter.
-
-
-**04 / SERENITY**  
-`AI · JavaScript`
-
-a small AI chatbot experiment.
-
-## ✦   BADGES
+<p align="center">
+  <sub>✦ badges</sub>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white">
