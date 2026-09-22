@@ -14,7 +14,7 @@ $ cat about.txt
 CSE student exploring cybersecurity, AI & app development.
 
 ```
-## ✦ Selected works
+## ✦ SELECTED WORKS
 
 **01 / NIDAI**  
 `cybersecurity · machine learning`
