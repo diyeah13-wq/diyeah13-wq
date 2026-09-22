@@ -14,44 +14,33 @@ $ cat about.txt
 CSE student exploring cybersecurity, AI & app development.
 
 ```
+## ✦ Selected works
 
-## ✦ selected work
+**01 / NIDAI**  
+`cybersecurity · machine learning`
 
-<table>
-<tr>
-<td width="50%">
+Network intrusion detection project exploring machine learning
+for identifying network attacks.
 
-###  NIDAI
+*currently building*
 
-Network intrusion detection project exploring machine learning for identifying network attacks.
 
-`Python` `ML` `Cybersecurity`
+**02 / LINGO**  
+`flutter · AI · computer vision`
 
-**currently building**
+ASL learning app built with Flutter and on-device machine learning.
 
-</td>
-<td width="50%">
 
-### LINGO
+**03 / SPILL THE NEWS**  
+`flutter · AI`
 
-Flutter-based ASL learning app with on-device hand recognition and machine learning.
+an AI-powered news companion built with Flutter.
 
-`Flutter` `Dart` `ML`
 
-</td>
-</tr>
+**04 / SERENITY**  
+`AI · JavaScript`
 
-<tr>
-<td width="50%">
-
-###  Spill the News
-
-An AI-powered news companion built with Flutter.
-
-`Flutter` `Dart` `AI`
-
-</td>
-<td width="50%">
+a small AI chatbot experiment.
 
 ###  Serenity
 
