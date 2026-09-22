@@ -42,12 +42,3 @@ an AI-powered news companion built with Flutter.
 
 a small AI chatbot experiment.
 
-###  Serenity
-
-A small AI chatbot experiment.
-
-`JavaScript` `CSS` `AI`
-
-</td>
-</tr>
-</table>
