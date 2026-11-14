@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://chatgpt.com/s/m_6af883e4541c8191a2a336784ea716f0" width="100%" alt="diaaa GitHub banner">
+  <img src="Build, Learn, Create_ Software and AI.png" width="100%" alt="diaaa GitHub banner">
 </p>
 
 
