@@ -4,7 +4,7 @@
 
 
 
-# Hi, I'm Diya! 
+Hi, I'm Diya! 
 
 **I turn "What if?" into "It works!"**
 
@@ -40,11 +40,6 @@ An AI-powered news application built with Flutter.
 
 ---
 
-**Let's connect!**
-
-[LinkedIn](https://www.linkedin.com/in/diya-joy-02883a36b/) 
-
-**Still a work in progress. Fortunately, so is the code.**
 
 ### Find me outside the terminal
 
